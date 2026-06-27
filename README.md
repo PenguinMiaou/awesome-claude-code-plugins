@@ -45,6 +45,7 @@ Coordinate multiple Claude Code instances working together.
   gh repo clone PenguinMiaou/claude-hive ~/.claude/plugins/claude-hive
   ```
 - [claude-octopus](https://github.com/nyldn/claude-octopus) — Put up to 8 AI models on every coding task. Blind spots surface before you ship. ![Stars](https://img.shields.io/github/stars/nyldn/claude-octopus?style=flat-square)
+- [Hephaestus](https://github.com/agentlas-ai/Hephaestus) — Local runtime for Claude Code/Codex agents with skills, memory, routing, and policy gates. ![Stars](https://img.shields.io/github/stars/agentlas-ai/Hephaestus?style=flat-square)
 - [oh-my-claudecode](https://github.com/Yeachan-Heo/oh-my-claudecode) — Teams-first multi-agent orchestration. ![Stars](https://img.shields.io/github/stars/Yeachan-Heo/oh-my-claudecode?style=flat-square)
 - [ruflo](https://github.com/ruvnet/ruflo) — Multi-agent swarm orchestration platform with RAG integration. ![Stars](https://img.shields.io/github/stars/ruvnet/ruflo?style=flat-square)
 - [vibe-kanban](https://github.com/BloopAI/vibe-kanban) — Get 10X more out of Claude Code with kanban-style task management. ![Stars](https://img.shields.io/github/stars/BloopAI/vibe-kanban?style=flat-square)
