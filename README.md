@@ -34,6 +34,10 @@ Plugins that bridge Claude Code with messaging platforms.
   ```bash
   gh repo clone PenguinMiaou/claude-channel-whatsapp ~/.claude/plugins/claude-channel-whatsapp
   ```
+- [hermes-tweet](https://github.com/Xquik-dev/hermes-tweet) — Hermes Agent X/Twitter plugin with read tools, gated actions, and bundled skill guidance. ![Stars](https://img.shields.io/github/stars/Xquik-dev/hermes-tweet?style=flat-square)
+  ```bash
+  gh repo clone Xquik-dev/hermes-tweet ~/.claude/plugins/hermes-tweet
+  ```
 - [nanoclaw](https://github.com/qwibitai/nanoclaw) — Connects to WhatsApp, Telegram, Slack, Discord, Gmail. Runs in containers. ![Stars](https://img.shields.io/github/stars/qwibitai/nanoclaw?style=flat-square)
 
 ## Multi-Agent & Orchestration
