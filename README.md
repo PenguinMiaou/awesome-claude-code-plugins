@@ -75,6 +75,7 @@ Plugins that enhance Claude Code's memory and context awareness.
 ## UI & Visualization
 
 - [claude-hud](https://github.com/jarrodwatts/claude-hud) — Shows what's happening: context usage, active tools, running agents, todo progress. ![Stars](https://img.shields.io/github/stars/jarrodwatts/claude-hud?style=flat-square)
+- [claude-codex-windows-notify](https://github.com/Tomauskasz/claude-codex-windows-notify) — Native Windows popup notifications for Claude Code, Codex, and OpenCode with sound, session preview, and click-to-focus. ![Stars](https://img.shields.io/github/stars/Tomauskasz/claude-codex-windows-notify?style=flat-square)
 
 ## Language & Framework Specific
 
