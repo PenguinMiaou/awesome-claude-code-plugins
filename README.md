@@ -72,6 +72,8 @@ Plugins that enhance Claude Code's memory and context awareness.
 - [agent-skills](https://github.com/hashicorp/agent-skills) — Skills and plugins for HashiCorp products (Terraform, Vault, etc). ![Stars](https://img.shields.io/github/stars/hashicorp/agent-skills?style=flat-square)
 - [pinecone-plugin](https://github.com/pinecone-io/pinecone-claude-code-plugin) — Official Pinecone vector database integration. ![Stars](https://img.shields.io/github/stars/pinecone-io/pinecone-claude-code-plugin?style=flat-square)
 
+- [shipvela](https://github.com/stefanautomateed/shipvela-codex) — Owner-approved website publishing via OAuth MCP; Shipvela account and hosting allowance required. ![Stars](https://img.shields.io/github/stars/stefanautomateed/shipvela-codex?style=flat-square)
+
 ## UI & Visualization
 
 - [claude-hud](https://github.com/jarrodwatts/claude-hud) — Shows what's happening: context usage, active tools, running agents, todo progress. ![Stars](https://img.shields.io/github/stars/jarrodwatts/claude-hud?style=flat-square)
