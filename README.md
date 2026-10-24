@@ -80,6 +80,7 @@ Plugins that enhance Claude Code's memory and context awareness.
 
 - [claude-code-elixir](https://github.com/georgeguimaraes/claude-code-elixir) — Plugin marketplace for Elixir development. ![Stars](https://img.shields.io/github/stars/georgeguimaraes/claude-code-elixir?style=flat-square)
 - [serena](https://github.com/oraios/serena) — MCP toolkit with semantic retrieval and editing. The IDE for your agent. ![Stars](https://img.shields.io/github/stars/oraios/serena?style=flat-square)
+- [installed-api](https://github.com/ajwann/installed-api) — Answers API questions from your installed Python and Node packages, not memory. ![Stars](https://img.shields.io/github/stars/ajwann/installed-api?style=flat-square)
 
 ## Productivity & Workflow
 
