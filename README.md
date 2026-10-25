@@ -83,6 +83,7 @@ Plugins that enhance Claude Code's memory and context awareness.
 
 ## Productivity & Workflow
 
+- [Docsy](https://github.com/getremcp/docsy-plugin) — Claude Code plugin for OAuth-connected, version-specific developer docs with source citations. ![Stars](https://img.shields.io/github/stars/getremcp/docsy-plugin?style=flat-square)
 - [gstack](https://github.com/garrytan/gstack) — Garry Tan's exact Claude Code setup: 23 opinionated tools. ![Stars](https://img.shields.io/github/stars/garrytan/gstack?style=flat-square)
 - [claude-code-plugins-plus-skills](https://github.com/jeremylongshore/claude-code-plugins-plus-skills) — 340 plugins + 1367 agent skills with CCPI package manager. ![Stars](https://img.shields.io/github/stars/jeremylongshore/claude-code-plugins-plus-skills?style=flat-square)
 - [career-ops](https://github.com/santifer/career-ops) — AI-powered job search system with 14 skill modes. ![Stars](https://img.shields.io/github/stars/santifer/career-ops?style=flat-square)
