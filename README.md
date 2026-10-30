@@ -43,7 +43,7 @@ Run `/plugin` to browse and manage what you have installed. MCP servers and stan
 
 | Plugin | Description | Stars |
 | :--- | :--- | :---: |
-| **[claude-plugins-official](https://github.com/anthropics/claude-plugins-official)**<br><sub>anthropics</sub> | Anthropic-managed directory of high-quality Claude Code plugins. The canonical source. | ★ 45.3k |
+| **[claude-plugins-official](https://github.com/anthropics/claude-plugins-official)**<br><sub>anthropics</sub> | Anthropic-managed directory of high-quality Claude Code plugins. The canonical source. | ★ 45.4k |
 
 ## Marketplaces & Directories
 
@@ -53,7 +53,7 @@ Curated collections you can add as a marketplace in one command.
 | :--- | :--- | :---: |
 | **[tons-of-skills-marketplace](https://github.com/jeremylongshore/tons-of-skills-marketplace)**<br><sub>jeremylongshore</sub> | Model-agnostic agent-skills platform with verified adapters and the ccpi package manager. | ★ 2.9k |
 | **[superpowers-marketplace](https://github.com/obra/superpowers-marketplace)**<br><sub>obra</sub> | Curated Claude Code plugin marketplace. | ★ 1.3k |
-| **[plugins-for-claude-natives](https://github.com/team-attention/plugins-for-claude-natives)**<br><sub>team-attention</sub> | Claude Code plugins for power users. | ★ 828 |
+| **[plugins-for-claude-natives](https://github.com/team-attention/plugins-for-claude-natives)**<br><sub>team-attention</sub> | Claude Code plugins for power users. | ★ 829 |
 | **[skills-curated](https://github.com/trailofbits/skills-curated)**<br><sub>trailofbits</sub> | Community-vetted plugin marketplace from Trail of Bits. | ★ 523 |
 
 ## Communication Channels
@@ -139,7 +139,7 @@ Opinionated setups and task-specific skill sets.
 | Plugin | Description | Stars |
 | :--- | :--- | :---: |
 | **[gstack](https://github.com/garrytan/gstack)**<br><sub>garrytan</sub> | Garry Tan's Claude Code setup: 23 opinionated tools for product, design, engineering, and QA roles. | ★ 138k |
-| **[career-ops](https://github.com/career-ops-hq/career-ops)**<br><sub>career-ops-hq</sub> | Job search agent that scores listings against your CV and tailors resumes and cover letters. | ★ 78.7k |
+| **[career-ops](https://github.com/career-ops-hq/career-ops)**<br><sub>career-ops-hq</sub> | Job search agent that scores listings against your CV and tailors resumes and cover letters. | ★ 78.8k |
 | **[NotFair](https://github.com/nowork-studio/notfair-plugin)**<br><sub>nowork-studio</sub> | SEO, GEO, and ad skills with Google Ads, Meta Ads, Search Console, and GA4 MCP. Formerly toprank. | ★ 4.1k |
 | **[ralph-wiggum-marketer](https://github.com/muratcankoylan/ralph-wiggum-marketer)**<br><sub>muratcankoylan</sub> | Autonomous AI copywriter. | ★ 778 |
 | **[Docsy](https://github.com/getremcp/docsy-plugin)**<br><sub>getremcp</sub> | Version-specific developer docs with source citations over OAuth MCP. | ★ 1 |
