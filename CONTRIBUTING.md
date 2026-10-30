@@ -5,23 +5,25 @@ Thanks for your interest in contributing!
 ## Adding a Plugin
 
 1. **Fork** this repository
-2. **Add your plugin** to the appropriate category in `README.md`
+2. **Add a row** to the matching category table in `README.md`
 3. Use this format:
    ```markdown
-   - [plugin-name](https://github.com/owner/repo) — One-line description. ![Stars](https://img.shields.io/github/stars/owner/repo?style=flat-square)
+   | **[plugin-name](https://github.com/owner/repo)**<br><sub>owner</sub> | One-line description. | ![Stars](https://img.shields.io/github/stars/owner/repo?style=flat-square&label=%E2%98%85) |
    ```
-4. Optionally include an install command:
-   ```bash
-   gh repo clone owner/repo ~/.claude/plugins/plugin-name
+4. If your repo ships a plugin marketplace, append the install commands to the description cell:
+   ```markdown
+   One-line description.<br>`/plugin marketplace add owner/repo`<br>`/plugin install plugin-name@marketplace-name`
    ```
-5. **Submit a Pull Request**
+5. Bump the category count in the **Contents** table and the `plugins` badge
+6. **Submit a Pull Request**
 
 ## Requirements
 
 - Plugin must be related to Claude Code
 - Repo must be public and have a README
 - One plugin per PR preferred
-- Keep descriptions concise (under 120 characters)
+- Keep descriptions concise (under 120 characters, install commands excluded)
+- Rows within a category are ordered by GitHub stars, highest first
 
 ## Categories
 
