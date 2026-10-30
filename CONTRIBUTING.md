@@ -8,7 +8,7 @@ Thanks for your interest in contributing!
 2. **Add a row** to the matching category table in `README.md`
 3. Use this format:
    ```markdown
-   | **[plugin-name](https://github.com/owner/repo)**<br><sub>owner</sub> | One-line description. | ![Stars](https://img.shields.io/github/stars/owner/repo?style=flat-square&label=%E2%98%85) |
+   | **[plugin-name](https://github.com/owner/repo)**<br><sub>owner</sub> | One-line description. | ★ |
    ```
 4. If your repo ships a plugin marketplace, append the install commands to the description cell:
    ```markdown
@@ -23,7 +23,7 @@ Thanks for your interest in contributing!
 - Repo must be public and have a README
 - One plugin per PR preferred
 - Keep descriptions concise (under 120 characters, install commands excluded)
-- Rows within a category are ordered by GitHub stars, highest first
+- Leave the Stars cell as `★`. A daily job fills in the count and sorts each category by stars
 
 ## Categories
 
