@@ -86,6 +86,7 @@ Plugins that enhance Claude Code's memory and context awareness.
 - [gstack](https://github.com/garrytan/gstack) — Garry Tan's exact Claude Code setup: 23 opinionated tools. ![Stars](https://img.shields.io/github/stars/garrytan/gstack?style=flat-square)
 - [claude-code-plugins-plus-skills](https://github.com/jeremylongshore/claude-code-plugins-plus-skills) — 340 plugins + 1367 agent skills with CCPI package manager. ![Stars](https://img.shields.io/github/stars/jeremylongshore/claude-code-plugins-plus-skills?style=flat-square)
 - [career-ops](https://github.com/santifer/career-ops) — AI-powered job search system with 14 skill modes. ![Stars](https://img.shields.io/github/stars/santifer/career-ops?style=flat-square)
+- [toprank](https://github.com/nowork-studio/toprank) — Open-source Claude Code plugin and skill set for SEO, Google Ads, content writing, and CMS optimization workflows. ![Stars](https://img.shields.io/github/stars/nowork-studio/toprank?style=flat-square)
 - [ralph-wiggum-marketer](https://github.com/muratcankoylan/ralph-wiggum-marketer) — Autonomous AI copywriter plugin. ![Stars](https://img.shields.io/github/stars/muratcankoylan/ralph-wiggum-marketer?style=flat-square)
 
 ## Plugin Development
