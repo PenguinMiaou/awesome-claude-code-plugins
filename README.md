@@ -100,6 +100,7 @@ Plugins that enhance Claude Code's memory and context awareness.
 - [toprank](https://github.com/nowork-studio/toprank) — Open-source Claude Code plugin and skill set for SEO, Google Ads, content writing, and CMS optimization workflows. ![Stars](https://img.shields.io/github/stars/nowork-studio/toprank?style=flat-square)
 - [ralph-wiggum-marketer](https://github.com/muratcankoylan/ralph-wiggum-marketer) — Autonomous AI copywriter plugin. ![Stars](https://img.shields.io/github/stars/muratcankoylan/ralph-wiggum-marketer?style=flat-square)
 - [NotFair](https://github.com/nowork-studio/NotFair) — Open-source Claude Code skills for SEO, GEO, Google Ads, and Meta Ads. Connects via Google Ads MCP, Meta Ads MCP, Google Search Console MCP, and Google Analytics (GA4) MCP. ![Stars](https://img.shields.io/github/stars/nowork-studio/NotFair?style=flat-square)
+- [agent-notifications](https://github.com/777genius/agent-notifications) — Desktop and webhook alerts for Claude Code, with sounds and click-to-focus on macOS, Linux and Windows. ![Stars](https://img.shields.io/github/stars/777genius/agent-notifications?style=flat-square)
 
 ## Plugin Development
 
