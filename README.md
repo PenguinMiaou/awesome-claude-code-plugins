@@ -88,6 +88,7 @@ Plugins that enhance Claude Code's memory and context awareness.
 - [career-ops](https://github.com/santifer/career-ops) — AI-powered job search system with 14 skill modes. ![Stars](https://img.shields.io/github/stars/santifer/career-ops?style=flat-square)
 - [toprank](https://github.com/nowork-studio/toprank) — Open-source Claude Code plugin and skill set for SEO, Google Ads, content writing, and CMS optimization workflows. ![Stars](https://img.shields.io/github/stars/nowork-studio/toprank?style=flat-square)
 - [ralph-wiggum-marketer](https://github.com/muratcankoylan/ralph-wiggum-marketer) — Autonomous AI copywriter plugin. ![Stars](https://img.shields.io/github/stars/muratcankoylan/ralph-wiggum-marketer?style=flat-square)
+- [NotFair](https://github.com/nowork-studio/NotFair) — Open-source Claude Code skills for SEO, GEO, Google Ads, and Meta Ads. Connects via Google Ads MCP, Meta Ads MCP, Google Search Console MCP, and Google Analytics (GA4) MCP. ![Stars](https://img.shields.io/github/stars/nowork-studio/NotFair?style=flat-square)
 
 ## Plugin Development
 
