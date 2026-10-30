@@ -5,7 +5,7 @@
 **A curated directory of Claude Code plugins, skills, and MCP integrations.**
 
 [![Awesome](https://img.shields.io/badge/awesome-list-FC60A8?style=flat-square&logo=awesomelists&logoColor=white)](https://awesome.re)
-[![Plugins](https://img.shields.io/badge/plugins-37-D97757?style=flat-square)](#contents)
+[![Plugins](https://img.shields.io/badge/plugins-34-D97757?style=flat-square)](#contents)
 [![Last commit](https://img.shields.io/github/last-commit/PenguinMiaou/awesome-claude-code-plugins?style=flat-square&label=updated)](https://github.com/PenguinMiaou/awesome-claude-code-plugins/commits/main)
 [![PRs welcome](https://img.shields.io/badge/PRs-welcome-2ea44f?style=flat-square)](CONTRIBUTING.md)
 [![License: CC0-1.0](https://img.shields.io/badge/license-CC0--1.0-lightgrey?style=flat-square)](https://creativecommons.org/publicdomain/zero/1.0/)
@@ -18,10 +18,10 @@ Entries within each category are ordered by GitHub stars. Star counts update liv
 
 | Category | Plugins | Category | Plugins |
 | :--- | :---: | :--- | :---: |
-| [Official](#official) | 1 | [Browser & Web](#browser--web) | 2 |
+| [Official](#official) | 1 | [Browser & Web](#browser--web) | 1 |
 | [Marketplaces & Directories](#marketplaces--directories) | 4 | [DevOps & Infrastructure](#devops--infrastructure) | 4 |
 | [Communication Channels](#communication-channels) | 2 | [Language & Framework Specific](#language--framework-specific) | 3 |
-| [Multi-Agent & Orchestration](#multi-agent--orchestration) | 6 | [Productivity & Workflow](#productivity--workflow) | 5 |
+| [Multi-Agent & Orchestration](#multi-agent--orchestration) | 4 | [Productivity & Workflow](#productivity--workflow) | 5 |
 | [Memory & Context](#memory--context) | 2 | [UI & Notifications](#ui--notifications) | 3 |
 | [AI Model Integration](#ai-model-integration) | 1 | [Plugin Development](#plugin-development) | 1 |
 | [Code Quality & Review](#code-quality--review) | 3 | | |
@@ -75,8 +75,6 @@ Coordinate multiple Claude Code instances working together.
 | **[oh-my-claudecode](https://github.com/Yeachan-Heo/oh-my-claudecode)**<br><sub>Yeachan-Heo</sub> | Teams-first multi-agent orchestration for Claude Code. | ![Stars](https://img.shields.io/github/stars/Yeachan-Heo/oh-my-claudecode?style=flat-square&label=%E2%98%85) |
 | **[vibe-kanban](https://github.com/BloopAI/vibe-kanban)**<br><sub>BloopAI</sub> | Kanban-style task management for Claude Code, Codex, and other coding agents. | ![Stars](https://img.shields.io/github/stars/BloopAI/vibe-kanban?style=flat-square&label=%E2%98%85) |
 | **[claude-octopus](https://github.com/nyldn/claude-octopus)**<br><sub>nyldn</sub> | Runs several AI models on the same task so disagreements surface before you ship. | ![Stars](https://img.shields.io/github/stars/nyldn/claude-octopus?style=flat-square&label=%E2%98%85) |
-| **[claude-hive](https://github.com/PenguinMiaou/claude-hive)**<br><sub>PenguinMiaou</sub> | Cross-window multi-agent coordination with worktree isolation, PR workflows, and conflict detection. | ![Stars](https://img.shields.io/github/stars/PenguinMiaou/claude-hive?style=flat-square&label=%E2%98%85) |
-| **[RuleStack](https://skillworks.thecompound.tech/rulestack)**<br><sub>Compound Labs</sub> | Nightly index of AGENTS.md, CLAUDE.md, Cursor, Copilot, and other agent rule files, scored by stack. | — |
 
 ## Memory & Context
 
@@ -112,7 +110,6 @@ Let Claude Code drive a browser.
 | Plugin | Description | Stars |
 | :--- | :--- | :---: |
 | **[superpowers-chrome](https://github.com/obra/superpowers-chrome)**<br><sub>obra</sub> | Direct Chrome control through the DevTools Protocol. Zero dependencies. | ![Stars](https://img.shields.io/github/stars/obra/superpowers-chrome?style=flat-square&label=%E2%98%85) |
-| **[claude-code-plugin](https://github.com/browserbase/claude-code-plugin)**<br><sub>browserbase</sub> | Cloud browsers for Claude Code instead of local Chrome. *Archived by its maintainers.* | ![Stars](https://img.shields.io/github/stars/browserbase/claude-code-plugin?style=flat-square&label=%E2%98%85) |
 
 ## DevOps & Infrastructure
 
