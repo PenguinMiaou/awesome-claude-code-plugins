@@ -55,6 +55,10 @@ Plugins that enhance Claude Code's memory and context awareness.
 
 - [claude-mem](https://github.com/thedotmack/claude-mem) — Auto-captures sessions, compresses with AI, injects context into future sessions. ![Stars](https://img.shields.io/github/stars/thedotmack/claude-mem?style=flat-square)
 - [claude-code-router](https://github.com/musistudio/claude-code-router) — Use Claude Code as coding infrastructure foundation. Control model interaction. ![Stars](https://img.shields.io/github/stars/musistudio/claude-code-router?style=flat-square)
+- [tree-ring-memory](https://github.com/TerminallyLazy/tree-ring-memory-claude-plugin) — Local-first recall, audit, and forgetting guidance for Claude Code. ![Stars](https://img.shields.io/github/stars/TerminallyLazy/tree-ring-memory-claude-plugin?style=flat-square)
+  ```bash
+  gh repo clone TerminallyLazy/tree-ring-memory-claude-plugin ~/.claude/plugins/tree-ring-memory
+  ```
 
 ## Code Quality & Review
 
