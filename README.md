@@ -48,6 +48,7 @@ Coordinate multiple Claude Code instances working together.
 - [oh-my-claudecode](https://github.com/Yeachan-Heo/oh-my-claudecode) — Teams-first multi-agent orchestration. ![Stars](https://img.shields.io/github/stars/Yeachan-Heo/oh-my-claudecode?style=flat-square)
 - [ruflo](https://github.com/ruvnet/ruflo) — Multi-agent swarm orchestration platform with RAG integration. ![Stars](https://img.shields.io/github/stars/ruvnet/ruflo?style=flat-square)
 - [vibe-kanban](https://github.com/BloopAI/vibe-kanban) — Get 10X more out of Claude Code with kanban-style task management. ![Stars](https://img.shields.io/github/stars/BloopAI/vibe-kanban?style=flat-square)
+- [RuleStack](https://skillworks.thecompound.tech/rulestack) - RuleStack indexes real AGENTS.md, CLAUDE.md, Cursor, Copilot, Windsurf, GEMINI.md and Cline files from live repositories every night, classifies them by stack and scores them; Vendors assert capabilities, and RuleStack measures adoption.
 
 ## Memory & Context
 
