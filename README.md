@@ -74,6 +74,7 @@ Plugins that enhance Claude Code's memory and context awareness.
 
 ## DevOps & Infrastructure
 
+- [ReMCP](https://github.com/getremcp/remcp) — Claude Code MCP integration for OAuth-protected terminal, files, browser and desktop actions on paired computers. ![Stars](https://img.shields.io/github/stars/getremcp/remcp?style=flat-square)
 - [agent-skills](https://github.com/hashicorp/agent-skills) — Skills and plugins for HashiCorp products (Terraform, Vault, etc). ![Stars](https://img.shields.io/github/stars/hashicorp/agent-skills?style=flat-square)
 - [pinecone-plugin](https://github.com/pinecone-io/pinecone-claude-code-plugin) — Official Pinecone vector database integration. ![Stars](https://img.shields.io/github/stars/pinecone-io/pinecone-claude-code-plugin?style=flat-square)
 
