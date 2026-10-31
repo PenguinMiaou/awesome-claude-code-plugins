@@ -43,7 +43,7 @@ Run `/plugin` to browse and manage what you have installed. MCP servers and stan
 
 | Plugin | Description | Stars |
 | :--- | :--- | :---: |
-| **[claude-plugins-official](https://github.com/anthropics/claude-plugins-official)**<br><sub>anthropics</sub> | Anthropic-managed directory of high-quality Claude Code plugins. The canonical source. | ★ 45.4k |
+| **[claude-plugins-official](https://github.com/anthropics/claude-plugins-official)**<br><sub>anthropics</sub> | Anthropic-managed directory of high-quality Claude Code plugins. The canonical source. | ★ 45.5k |
 
 ## Marketplaces & Directories
 
@@ -71,7 +71,7 @@ Coordinate multiple Claude Code instances working together.
 
 | Plugin | Description | Stars |
 | :--- | :--- | :---: |
-| **[ruflo](https://github.com/ruvnet/ruflo)**<br><sub>ruvnet</sub> | Multi-agent swarm orchestration with adaptive memory and vector RAG. | ★ 80.2k |
+| **[ruflo](https://github.com/ruvnet/ruflo)**<br><sub>ruvnet</sub> | Multi-agent swarm orchestration with adaptive memory and vector RAG. | ★ 80.3k |
 | **[oh-my-claudecode](https://github.com/Yeachan-Heo/oh-my-claudecode)**<br><sub>Yeachan-Heo</sub> | Teams-first multi-agent orchestration for Claude Code. | ★ 40.4k |
 | **[vibe-kanban](https://github.com/BloopAI/vibe-kanban)**<br><sub>BloopAI</sub> | Kanban-style task management for Claude Code, Codex, and other coding agents. | ★ 28.5k |
 | **[claude-octopus](https://github.com/nyldn/claude-octopus)**<br><sub>nyldn</sub> | Runs several AI models on the same task so disagreements surface before you ship. | ★ 4.3k |
@@ -82,7 +82,7 @@ Give Claude Code memory that lasts across sessions.
 
 | Plugin | Description | Stars |
 | :--- | :--- | :---: |
-| **[claude-mem](https://github.com/thedotmack/claude-mem)**<br><sub>thedotmack</sub> | Captures session activity, compresses it with AI, and injects relevant context into future sessions. | ★ 105k |
+| **[claude-mem](https://github.com/thedotmack/claude-mem)**<br><sub>thedotmack</sub> | Captures session activity, compresses it with AI, and injects relevant context into future sessions. | ★ 107k |
 | **[tree-ring-memory](https://github.com/TerminallyLazy/tree-ring-memory-claude-plugin)**<br><sub>TerminallyLazy</sub> | Local-first recall, audit, and forgetting guidance for Claude Code.<br>`/plugin marketplace add TerminallyLazy/tree-ring-memory-claude-plugin`<br>`/plugin install tree-ring-memory@tree-ring-memory` | ★ 0 |
 
 ## AI Model Integration
@@ -109,7 +109,7 @@ Let Claude Code drive a browser.
 
 | Plugin | Description | Stars |
 | :--- | :--- | :---: |
-| **[superpowers-chrome](https://github.com/obra/superpowers-chrome)**<br><sub>obra</sub> | Direct Chrome control through the DevTools Protocol. Zero dependencies. | ★ 365 |
+| **[superpowers-chrome](https://github.com/obra/superpowers-chrome)**<br><sub>obra</sub> | Direct Chrome control through the DevTools Protocol. Zero dependencies. | ★ 367 |
 
 ## DevOps & Infrastructure
 
@@ -139,7 +139,7 @@ Opinionated setups and task-specific skill sets.
 | Plugin | Description | Stars |
 | :--- | :--- | :---: |
 | **[gstack](https://github.com/garrytan/gstack)**<br><sub>garrytan</sub> | Garry Tan's Claude Code setup: 23 opinionated tools for product, design, engineering, and QA roles. | ★ 138k |
-| **[career-ops](https://github.com/career-ops-hq/career-ops)**<br><sub>career-ops-hq</sub> | Job search agent that scores listings against your CV and tailors resumes and cover letters. | ★ 78.8k |
+| **[career-ops](https://github.com/career-ops-hq/career-ops)**<br><sub>career-ops-hq</sub> | Job search agent that scores listings against your CV and tailors resumes and cover letters. | ★ 79k |
 | **[NotFair](https://github.com/nowork-studio/notfair-plugin)**<br><sub>nowork-studio</sub> | SEO, GEO, and ad skills with Google Ads, Meta Ads, Search Console, and GA4 MCP. Formerly toprank. | ★ 4.1k |
 | **[ralph-wiggum-marketer](https://github.com/muratcankoylan/ralph-wiggum-marketer)**<br><sub>muratcankoylan</sub> | Autonomous AI copywriter. | ★ 778 |
 | **[Docsy](https://github.com/getremcp/docsy-plugin)**<br><sub>getremcp</sub> | Version-specific developer docs with source citations over OAuth MCP. | ★ 1 |
