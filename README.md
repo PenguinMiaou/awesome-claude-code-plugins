@@ -43,7 +43,7 @@ Run `/plugin` to browse and manage what you have installed. MCP servers and stan
 
 | Plugin | Description | Stars |
 | :--- | :--- | :---: |
-| **[claude-plugins-official](https://github.com/anthropics/claude-plugins-official)**<br><sub>anthropics</sub> | Anthropic-managed directory of high-quality Claude Code plugins. The canonical source. | ★ 46.2k |
+| **[claude-plugins-official](https://github.com/anthropics/claude-plugins-official)**<br><sub>anthropics</sub> | Anthropic-managed directory of high-quality Claude Code plugins. The canonical source. | ★ 46.3k |
 
 ## Marketplaces & Directories
 
@@ -71,7 +71,7 @@ Coordinate multiple Claude Code instances working together.
 
 | Plugin | Description | Stars |
 | :--- | :--- | :---: |
-| **[ruflo](https://github.com/ruvnet/ruflo)**<br><sub>ruvnet</sub> | Multi-agent swarm orchestration with adaptive memory and vector RAG. | ★ 80.9k |
+| **[ruflo](https://github.com/ruvnet/ruflo)**<br><sub>ruvnet</sub> | Multi-agent swarm orchestration with adaptive memory and vector RAG. | ★ 81k |
 | **[oh-my-claudecode](https://github.com/Yeachan-Heo/oh-my-claudecode)**<br><sub>Yeachan-Heo</sub> | Teams-first multi-agent orchestration for Claude Code. | ★ 40.6k |
 | **[vibe-kanban](https://github.com/BloopAI/vibe-kanban)**<br><sub>BloopAI</sub> | Kanban-style task management for Claude Code, Codex, and other coding agents. | ★ 28.6k |
 | **[claude-octopus](https://github.com/nyldn/claude-octopus)**<br><sub>nyldn</sub> | Runs several AI models on the same task so disagreements surface before you ship. | ★ 4.4k |
@@ -82,7 +82,7 @@ Give Claude Code memory that lasts across sessions.
 
 | Plugin | Description | Stars |
 | :--- | :--- | :---: |
-| **[claude-mem](https://github.com/thedotmack/claude-mem)**<br><sub>thedotmack</sub> | Captures session activity, compresses it with AI, and injects relevant context into future sessions. | ★ 113k |
+| **[claude-mem](https://github.com/thedotmack/claude-mem)**<br><sub>thedotmack</sub> | Captures session activity, compresses it with AI, and injects relevant context into future sessions. | ★ 114k |
 | **[tree-ring-memory](https://github.com/TerminallyLazy/tree-ring-memory-claude-plugin)**<br><sub>TerminallyLazy</sub> | Local-first recall, audit, and forgetting guidance for Claude Code.<br>`/plugin marketplace add TerminallyLazy/tree-ring-memory-claude-plugin`<br>`/plugin install tree-ring-memory@tree-ring-memory` | ★ 0 |
 
 ## AI Model Integration
@@ -117,9 +117,9 @@ Cloud, infrastructure, deployment, and remote machines.
 
 | Plugin | Description | Stars |
 | :--- | :--- | :---: |
-| **[agent-skills](https://github.com/hashicorp/agent-skills)**<br><sub>hashicorp</sub> | Agent skills and plugins for Terraform, Vault, and other HashiCorp products. | ★ 913 |
+| **[agent-skills](https://github.com/hashicorp/agent-skills)**<br><sub>hashicorp</sub> | Agent skills and plugins for Terraform, Vault, and other HashiCorp products. | ★ 916 |
 | **[pinecone-claude-code-plugin](https://github.com/pinecone-io/pinecone-claude-code-plugin)**<br><sub>pinecone-io</sub> | Official Pinecone vector database marketplace. | ★ 68 |
-| **[ReMCP](https://github.com/getremcp/remcp)**<br><sub>getremcp</sub> | OAuth-protected terminal, file, browser, and desktop access to computers you pair. | ★ 3 |
+| **[ReMCP](https://github.com/getremcp/remcp)**<br><sub>getremcp</sub> | OAuth-protected terminal, file, browser, and desktop access to computers you pair. | ★ 4 |
 | **[shipvela](https://github.com/stefanautomateed/shipvela-codex)**<br><sub>stefanautomateed</sub> | Owner-approved website publishing through an OAuth MCP connector. Requires a Shipvela account. | ★ 0 |
 
 ## Language & Framework Specific
@@ -139,7 +139,7 @@ Opinionated setups and task-specific skill sets.
 | Plugin | Description | Stars |
 | :--- | :--- | :---: |
 | **[gstack](https://github.com/garrytan/gstack)**<br><sub>garrytan</sub> | Garry Tan's Claude Code setup: 23 opinionated tools for product, design, engineering, and QA roles. | ★ 140k |
-| **[career-ops](https://github.com/career-ops-hq/career-ops)**<br><sub>career-ops-hq</sub> | Job search agent that scores listings against your CV and tailors resumes and cover letters. | ★ 80.3k |
+| **[career-ops](https://github.com/career-ops-hq/career-ops)**<br><sub>career-ops-hq</sub> | Job search agent that scores listings against your CV and tailors resumes and cover letters. | ★ 80.6k |
 | **[NotFair](https://github.com/nowork-studio/notfair-plugin)**<br><sub>nowork-studio</sub> | SEO, GEO, and ad skills with Google Ads, Meta Ads, Search Console, and GA4 MCP. Formerly toprank. | ★ 4.1k |
 | **[ralph-wiggum-marketer](https://github.com/muratcankoylan/ralph-wiggum-marketer)**<br><sub>muratcankoylan</sub> | Autonomous AI copywriter. | ★ 779 |
 | **[Docsy](https://github.com/getremcp/docsy-plugin)**<br><sub>getremcp</sub> | Version-specific developer docs with source citations over OAuth MCP. | ★ 1 |
@@ -151,7 +151,7 @@ See what Claude Code is doing, and get told when it needs you.
 | Plugin | Description | Stars |
 | :--- | :--- | :---: |
 | **[claude-hud](https://github.com/jarrodwatts/claude-hud)**<br><sub>jarrodwatts</sub> | Shows context usage, active tools, running agents, and todo progress. | ★ 29.1k |
-| **[agent-notifications](https://github.com/777genius/agent-notifications)**<br><sub>777genius</sub> | Desktop and webhook alerts with sounds and click-to-focus on macOS, Linux, and Windows. | ★ 823 |
+| **[agent-notifications](https://github.com/777genius/agent-notifications)**<br><sub>777genius</sub> | Desktop and webhook alerts with sounds and click-to-focus on macOS, Linux, and Windows. | ★ 825 |
 | **[claude-codex-windows-notify](https://github.com/Tomauskasz/claude-codex-windows-notify)**<br><sub>Tomauskasz</sub> | Native Windows popups for Claude Code, Codex, and OpenCode with session preview and click-to-focus. | ★ 0 |
 
 ## Plugin Development
