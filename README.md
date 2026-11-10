@@ -5,7 +5,7 @@
 **A curated directory of Claude Code plugins, skills, and MCP integrations.**
 
 [![Awesome](https://img.shields.io/badge/awesome-list-FC60A8?style=flat-square&logo=awesomelists&logoColor=white)](https://awesome.re)
-[![Plugins](https://img.shields.io/badge/plugins-34-D97757?style=flat-square)](#contents)
+[![Plugins](https://img.shields.io/badge/plugins-35-D97757?style=flat-square)](#contents)
 [![Last commit](https://img.shields.io/github/last-commit/PenguinMiaou/awesome-claude-code-plugins?style=flat-square&label=updated)](https://github.com/PenguinMiaou/awesome-claude-code-plugins/commits/main)
 [![PRs welcome](https://img.shields.io/badge/PRs-welcome-2ea44f?style=flat-square)](CONTRIBUTING.md)
 [![License: CC0-1.0](https://img.shields.io/badge/license-CC0--1.0-lightgrey?style=flat-square)](https://creativecommons.org/publicdomain/zero/1.0/)
@@ -21,7 +21,7 @@ Entries within each category are ordered by GitHub stars, refreshed daily.
 | [Official](#official) | 1 | [Browser & Web](#browser--web) | 1 |
 | [Marketplaces & Directories](#marketplaces--directories) | 4 | [DevOps & Infrastructure](#devops--infrastructure) | 4 |
 | [Communication Channels](#communication-channels) | 2 | [Language & Framework Specific](#language--framework-specific) | 3 |
-| [Multi-Agent & Orchestration](#multi-agent--orchestration) | 4 | [Productivity & Workflow](#productivity--workflow) | 5 |
+| [Multi-Agent & Orchestration](#multi-agent--orchestration) | 4 | [Productivity & Workflow](#productivity--workflow) | 6 |
 | [Memory & Context](#memory--context) | 2 | [UI & Notifications](#ui--notifications) | 3 |
 | [AI Model Integration](#ai-model-integration) | 1 | [Plugin Development](#plugin-development) | 1 |
 | [Code Quality & Review](#code-quality--review) | 3 | | |
@@ -143,6 +143,7 @@ Opinionated setups and task-specific skill sets.
 | **[NotFair](https://github.com/nowork-studio/notfair-plugin)**<br><sub>nowork-studio</sub> | SEO, GEO, and ad skills with Google Ads, Meta Ads, Search Console, and GA4 MCP. Formerly toprank. | ★ 4.1k |
 | **[ralph-wiggum-marketer](https://github.com/muratcankoylan/ralph-wiggum-marketer)**<br><sub>muratcankoylan</sub> | Autonomous AI copywriter. | ★ 780 |
 | **[Docsy](https://github.com/getremcp/docsy-plugin)**<br><sub>getremcp</sub> | Version-specific developer docs with source citations over OAuth MCP. | ★ 1 |
+| **[imagera](https://github.com/alexadams6ix/imagera-skills)**<br><sub>alexadams6ix</sub> | Image, video, voice and music generation skills over Imagera's remote MCP server (OAuth sign-in); paid service.<br>`/plugin marketplace add alexadams6ix/imagera-skills`<br>`/plugin install imagera@imagera` | ★ |
 
 ## UI & Notifications
 
