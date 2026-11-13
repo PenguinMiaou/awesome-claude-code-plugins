@@ -43,7 +43,7 @@ Run `/plugin` to browse and manage what you have installed. MCP servers and stan
 
 | Plugin | Description | Stars |
 | :--- | :--- | :---: |
-| **[claude-plugins-official](https://github.com/anthropics/claude-plugins-official)**<br><sub>anthropics</sub> | Anthropic-managed directory of high-quality Claude Code plugins. The canonical source. | ★ 47k |
+| **[claude-plugins-official](https://github.com/anthropics/claude-plugins-official)**<br><sub>anthropics</sub> | Anthropic-managed directory of high-quality Claude Code plugins. The canonical source. | ★ 47.1k |
 
 ## Marketplaces & Directories
 
@@ -54,7 +54,7 @@ Curated collections you can add as a marketplace in one command.
 | **[tons-of-skills-marketplace](https://github.com/jeremylongshore/tons-of-skills-marketplace)**<br><sub>jeremylongshore</sub> | Model-agnostic agent-skills platform with verified adapters and the ccpi package manager. | ★ 2.9k |
 | **[superpowers-marketplace](https://github.com/obra/superpowers-marketplace)**<br><sub>obra</sub> | Curated Claude Code plugin marketplace. | ★ 1.3k |
 | **[plugins-for-claude-natives](https://github.com/team-attention/plugins-for-claude-natives)**<br><sub>team-attention</sub> | Claude Code plugins for power users. | ★ 831 |
-| **[skills-curated](https://github.com/trailofbits/skills-curated)**<br><sub>trailofbits</sub> | Community-vetted plugin marketplace from Trail of Bits. | ★ 531 |
+| **[skills-curated](https://github.com/trailofbits/skills-curated)**<br><sub>trailofbits</sub> | Community-vetted plugin marketplace from Trail of Bits. | ★ 535 |
 
 ## Communication Channels
 
@@ -71,7 +71,7 @@ Coordinate multiple Claude Code instances working together.
 
 | Plugin | Description | Stars |
 | :--- | :--- | :---: |
-| **[ruflo](https://github.com/ruvnet/ruflo)**<br><sub>ruvnet</sub> | Multi-agent swarm orchestration with adaptive memory and vector RAG. | ★ 81.5k |
+| **[ruflo](https://github.com/ruvnet/ruflo)**<br><sub>ruvnet</sub> | Multi-agent swarm orchestration with adaptive memory and vector RAG. | ★ 81.6k |
 | **[oh-my-claudecode](https://github.com/Yeachan-Heo/oh-my-claudecode)**<br><sub>Yeachan-Heo</sub> | Teams-first multi-agent orchestration for Claude Code. | ★ 40.8k |
 | **[vibe-kanban](https://github.com/BloopAI/vibe-kanban)**<br><sub>BloopAI</sub> | Kanban-style task management for Claude Code, Codex, and other coding agents. | ★ 28.7k |
 | **[claude-octopus](https://github.com/nyldn/claude-octopus)**<br><sub>nyldn</sub> | Runs several AI models on the same task so disagreements surface before you ship. | ★ 4.4k |
@@ -82,7 +82,7 @@ Give Claude Code memory that lasts across sessions.
 
 | Plugin | Description | Stars |
 | :--- | :--- | :---: |
-| **[claude-mem](https://github.com/thedotmack/claude-mem)**<br><sub>thedotmack</sub> | Captures session activity, compresses it with AI, and injects relevant context into future sessions. | ★ 116k |
+| **[claude-mem](https://github.com/thedotmack/claude-mem)**<br><sub>thedotmack</sub> | Captures session activity, compresses it with AI, and injects relevant context into future sessions. | ★ 117k |
 | **[tree-ring-memory](https://github.com/TerminallyLazy/tree-ring-memory-claude-plugin)**<br><sub>TerminallyLazy</sub> | Local-first recall, audit, and forgetting guidance for Claude Code.<br>`/plugin marketplace add TerminallyLazy/tree-ring-memory-claude-plugin`<br>`/plugin install tree-ring-memory@tree-ring-memory` | ★ 0 |
 
 ## AI Model Integration
@@ -99,7 +99,7 @@ Review loops, language servers, and structured development workflows.
 
 | Plugin | Description | Stars |
 | :--- | :--- | :---: |
-| **[claude-review-loop](https://github.com/hamelsmu/claude-review-loop)**<br><sub>hamelsmu</sub> | Automated code review loop with Codex. | ★ 731 |
+| **[claude-review-loop](https://github.com/hamelsmu/claude-review-loop)**<br><sub>hamelsmu</sub> | Automated code review loop with Codex. | ★ 732 |
 | **[claude-code-lsps](https://github.com/Piebald-AI/claude-code-lsps)**<br><sub>Piebald-AI</sub> | Plugin marketplace of LSP servers for Claude Code. | ★ 520 |
 | **[cc-blueprint-toolkit](https://github.com/croffasia/cc-blueprint-toolkit)**<br><sub>croffasia</sub> | Blueprint-driven development workflow. | ★ 196 |
 
@@ -117,7 +117,7 @@ Cloud, infrastructure, deployment, and remote machines.
 
 | Plugin | Description | Stars |
 | :--- | :--- | :---: |
-| **[agent-skills](https://github.com/hashicorp/agent-skills)**<br><sub>hashicorp</sub> | Agent skills and plugins for Terraform, Vault, and other HashiCorp products. | ★ 926 |
+| **[agent-skills](https://github.com/hashicorp/agent-skills)**<br><sub>hashicorp</sub> | Agent skills and plugins for Terraform, Vault, and other HashiCorp products. | ★ 928 |
 | **[pinecone-claude-code-plugin](https://github.com/pinecone-io/pinecone-claude-code-plugin)**<br><sub>pinecone-io</sub> | Official Pinecone vector database marketplace. | ★ 68 |
 | **[ReMCP](https://github.com/getremcp/remcp)**<br><sub>getremcp</sub> | OAuth-protected terminal, file, browser, and desktop access to computers you pair. | ★ 4 |
 | **[shipvela](https://github.com/stefanautomateed/shipvela-codex)**<br><sub>stefanautomateed</sub> | Owner-approved website publishing through an OAuth MCP connector. Requires a Shipvela account. | ★ 0 |
@@ -139,7 +139,7 @@ Opinionated setups and task-specific skill sets.
 | Plugin | Description | Stars |
 | :--- | :--- | :---: |
 | **[gstack](https://github.com/garrytan/gstack)**<br><sub>garrytan</sub> | Garry Tan's Claude Code setup: 23 opinionated tools for product, design, engineering, and QA roles. | ★ 141k |
-| **[career-ops](https://github.com/career-ops-hq/career-ops)**<br><sub>career-ops-hq</sub> | Job search agent that scores listings against your CV and tailors resumes and cover letters. | ★ 82.1k |
+| **[career-ops](https://github.com/career-ops-hq/career-ops)**<br><sub>career-ops-hq</sub> | Job search agent that scores listings against your CV and tailors resumes and cover letters. | ★ 82.3k |
 | **[NotFair](https://github.com/nowork-studio/notfair-plugin)**<br><sub>nowork-studio</sub> | SEO, GEO, and ad skills with Google Ads, Meta Ads, Search Console, and GA4 MCP. Formerly toprank. | ★ 4.1k |
 | **[ralph-wiggum-marketer](https://github.com/muratcankoylan/ralph-wiggum-marketer)**<br><sub>muratcankoylan</sub> | Autonomous AI copywriter. | ★ 780 |
 | **[Docsy](https://github.com/getremcp/docsy-plugin)**<br><sub>getremcp</sub> | Version-specific developer docs with source citations over OAuth MCP. | ★ 1 |
