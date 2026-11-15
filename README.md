@@ -43,7 +43,7 @@ Run `/plugin` to browse and manage what you have installed. MCP servers and stan
 
 | Plugin | Description | Stars |
 | :--- | :--- | :---: |
-| **[claude-plugins-official](https://github.com/anthropics/claude-plugins-official)**<br><sub>anthropics</sub> | Anthropic-managed directory of high-quality Claude Code plugins. The canonical source. | ★ 47.2k |
+| **[claude-plugins-official](https://github.com/anthropics/claude-plugins-official)**<br><sub>anthropics</sub> | Anthropic-managed directory of high-quality Claude Code plugins. The canonical source. | ★ 47.3k |
 
 ## Marketplaces & Directories
 
@@ -71,7 +71,7 @@ Coordinate multiple Claude Code instances working together.
 
 | Plugin | Description | Stars |
 | :--- | :--- | :---: |
-| **[ruflo](https://github.com/ruvnet/ruflo)**<br><sub>ruvnet</sub> | Multi-agent swarm orchestration with adaptive memory and vector RAG. | ★ 81.7k |
+| **[ruflo](https://github.com/ruvnet/ruflo)**<br><sub>ruvnet</sub> | Multi-agent swarm orchestration with adaptive memory and vector RAG. | ★ 81.8k |
 | **[oh-my-claudecode](https://github.com/Yeachan-Heo/oh-my-claudecode)**<br><sub>Yeachan-Heo</sub> | Teams-first multi-agent orchestration for Claude Code. | ★ 40.8k |
 | **[vibe-kanban](https://github.com/BloopAI/vibe-kanban)**<br><sub>BloopAI</sub> | Kanban-style task management for Claude Code, Codex, and other coding agents. | ★ 28.7k |
 | **[claude-octopus](https://github.com/nyldn/claude-octopus)**<br><sub>nyldn</sub> | Runs several AI models on the same task so disagreements surface before you ship. | ★ 4.4k |
@@ -91,7 +91,7 @@ Route Claude Code to other models and providers.
 
 | Plugin | Description | Stars |
 | :--- | :--- | :---: |
-| **[claude-code-router](https://github.com/musistudio/claude-code-router)**<br><sub>musistudio</sub> | Routes Claude Code requests across models and providers from one local control plane. | ★ 38.1k |
+| **[claude-code-router](https://github.com/musistudio/claude-code-router)**<br><sub>musistudio</sub> | Routes Claude Code requests across models and providers from one local control plane. | ★ 38.2k |
 
 ## Code Quality & Review
 
@@ -138,10 +138,10 @@ Opinionated setups and task-specific skill sets.
 
 | Plugin | Description | Stars |
 | :--- | :--- | :---: |
-| **[gstack](https://github.com/garrytan/gstack)**<br><sub>garrytan</sub> | Garry Tan's Claude Code setup: 23 opinionated tools for product, design, engineering, and QA roles. | ★ 141k |
-| **[career-ops](https://github.com/career-ops-hq/career-ops)**<br><sub>career-ops-hq</sub> | Job search agent that scores listings against your CV and tailors resumes and cover letters. | ★ 82.5k |
-| **[NotFair](https://github.com/nowork-studio/notfair-plugin)**<br><sub>nowork-studio</sub> | SEO, GEO, and ad skills with Google Ads, Meta Ads, Search Console, and GA4 MCP. Formerly toprank. | ★ 4.1k |
-| **[ralph-wiggum-marketer](https://github.com/muratcankoylan/ralph-wiggum-marketer)**<br><sub>muratcankoylan</sub> | Autonomous AI copywriter. | ★ 780 |
+| **[gstack](https://github.com/garrytan/gstack)**<br><sub>garrytan</sub> | Garry Tan's Claude Code setup: 23 opinionated tools for product, design, engineering, and QA roles. | ★ 142k |
+| **[career-ops](https://github.com/career-ops-hq/career-ops)**<br><sub>career-ops-hq</sub> | Job search agent that scores listings against your CV and tailors resumes and cover letters. | ★ 82.7k |
+| **[NotFair](https://github.com/nowork-studio/notfair-plugin)**<br><sub>nowork-studio</sub> | SEO, GEO, and ad skills with Google Ads, Meta Ads, Search Console, and GA4 MCP. Formerly toprank. | ★ 4.2k |
+| **[ralph-wiggum-marketer](https://github.com/muratcankoylan/ralph-wiggum-marketer)**<br><sub>muratcankoylan</sub> | Autonomous AI copywriter. | ★ 781 |
 | **[Docsy](https://github.com/getremcp/docsy-plugin)**<br><sub>getremcp</sub> | Version-specific developer docs with source citations over OAuth MCP. | ★ 1 |
 
 ## UI & Notifications
