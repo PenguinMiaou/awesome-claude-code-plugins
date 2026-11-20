@@ -92,7 +92,7 @@ Route Claude Code to other models and providers.
 | Plugin | Description | Stars |
 | :--- | :--- | :---: |
 | **[claude-code-router](https://github.com/musistudio/claude-code-router)**<br><sub>musistudio</sub> | Routes Claude Code requests across models and providers from one local control plane. | ★ 38.1k |
-| **[Kling AI](https://github.com/klingai-tech/claude-plugin)**<br><sub>klingai-tech</sub> | Global image/video generation and task queries via OAuth; uses paid credits.<br>`/plugin marketplace add klingai-tech/claude-plugin`<br>`/plugin install kling-ai@klingai` | ★ |
+| **[Kling AI Global Plugin](https://github.com/klingai-tech/claude-plugin)**<br><sub>klingai-tech</sub> | Global image/video generation and task queries via OAuth; uses paid credits.<br>`/plugin marketplace add klingai-tech/claude-plugin`<br>`/plugin install kling-ai@klingai` | ★ |
 
 ## Code Quality & Review
 
