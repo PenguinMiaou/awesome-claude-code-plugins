@@ -99,7 +99,7 @@ Review loops, language servers, and structured development workflows.
 
 | Plugin | Description | Stars |
 | :--- | :--- | :---: |
-| **[claude-review-loop](https://github.com/hamelsmu/claude-review-loop)**<br><sub>hamelsmu</sub> | Automated code review loop with Codex. | ★ 734 |
+| **[claude-review-loop](https://github.com/hamelsmu/claude-review-loop)**<br><sub>hamelsmu</sub> | Automated code review loop with Codex. | ★ 733 |
 | **[claude-code-lsps](https://github.com/Piebald-AI/claude-code-lsps)**<br><sub>Piebald-AI</sub> | Plugin marketplace of LSP servers for Claude Code. | ★ 520 |
 | **[cc-blueprint-toolkit](https://github.com/croffasia/cc-blueprint-toolkit)**<br><sub>croffasia</sub> | Blueprint-driven development workflow. | ★ 197 |
 
@@ -109,7 +109,7 @@ Let Claude Code drive a browser.
 
 | Plugin | Description | Stars |
 | :--- | :--- | :---: |
-| **[superpowers-chrome](https://github.com/obra/superpowers-chrome)**<br><sub>obra</sub> | Direct Chrome control through the DevTools Protocol. Zero dependencies. | ★ 376 |
+| **[superpowers-chrome](https://github.com/obra/superpowers-chrome)**<br><sub>obra</sub> | Direct Chrome control through the DevTools Protocol. Zero dependencies. | ★ 377 |
 
 ## DevOps & Infrastructure
 
@@ -117,7 +117,7 @@ Cloud, infrastructure, deployment, and remote machines.
 
 | Plugin | Description | Stars |
 | :--- | :--- | :---: |
-| **[agent-skills](https://github.com/hashicorp/agent-skills)**<br><sub>hashicorp</sub> | Agent skills and plugins for Terraform, Vault, and other HashiCorp products. | ★ 935 |
+| **[agent-skills](https://github.com/hashicorp/agent-skills)**<br><sub>hashicorp</sub> | Agent skills and plugins for Terraform, Vault, and other HashiCorp products. | ★ 936 |
 | **[pinecone-claude-code-plugin](https://github.com/pinecone-io/pinecone-claude-code-plugin)**<br><sub>pinecone-io</sub> | Official Pinecone vector database marketplace. | ★ 68 |
 | **[ReMCP](https://github.com/getremcp/remcp)**<br><sub>getremcp</sub> | OAuth-protected terminal, file, browser, and desktop access to computers you pair. | ★ 5 |
 | **[shipvela](https://github.com/stefanautomateed/shipvela-codex)**<br><sub>stefanautomateed</sub> | Owner-approved website publishing through an OAuth MCP connector. Requires a Shipvela account. | ★ 0 |
@@ -139,7 +139,7 @@ Opinionated setups and task-specific skill sets.
 | Plugin | Description | Stars |
 | :--- | :--- | :---: |
 | **[gstack](https://github.com/garrytan/gstack)**<br><sub>garrytan</sub> | Garry Tan's Claude Code setup: 23 opinionated tools for product, design, engineering, and QA roles. | ★ 142k |
-| **[career-ops](https://github.com/career-ops-hq/career-ops)**<br><sub>career-ops-hq</sub> | Job search agent that scores listings against your CV and tailors resumes and cover letters. | ★ 84k |
+| **[career-ops](https://github.com/career-ops-hq/career-ops)**<br><sub>career-ops-hq</sub> | Job search agent that scores listings against your CV and tailors resumes and cover letters. | ★ 84.1k |
 | **[NotFair](https://github.com/nowork-studio/notfair-plugin)**<br><sub>nowork-studio</sub> | SEO, GEO, and ad skills with Google Ads, Meta Ads, Search Console, and GA4 MCP. Formerly toprank. | ★ 4.3k |
 | **[ralph-wiggum-marketer](https://github.com/muratcankoylan/ralph-wiggum-marketer)**<br><sub>muratcankoylan</sub> | Autonomous AI copywriter. | ★ 782 |
 | **[Docsy](https://github.com/getremcp/docsy-plugin)**<br><sub>getremcp</sub> | Version-specific developer docs with source citations over OAuth MCP. | ★ 1 |
