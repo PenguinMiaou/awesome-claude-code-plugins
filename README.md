@@ -43,7 +43,7 @@ Run `/plugin` to browse and manage what you have installed. MCP servers and stan
 
 | Plugin | Description | Stars |
 | :--- | :--- | :---: |
-| **[claude-plugins-official](https://github.com/anthropics/claude-plugins-official)**<br><sub>anthropics</sub> | Anthropic-managed directory of high-quality Claude Code plugins. The canonical source. | ★ 47.9k |
+| **[claude-plugins-official](https://github.com/anthropics/claude-plugins-official)**<br><sub>anthropics</sub> | Anthropic-managed directory of high-quality Claude Code plugins. The canonical source. | ★ 48k |
 
 ## Marketplaces & Directories
 
@@ -54,7 +54,7 @@ Curated collections you can add as a marketplace in one command.
 | **[tons-of-skills-marketplace](https://github.com/jeremylongshore/tons-of-skills-marketplace)**<br><sub>jeremylongshore</sub> | Model-agnostic agent-skills platform with verified adapters and the ccpi package manager. | ★ 2.9k |
 | **[superpowers-marketplace](https://github.com/obra/superpowers-marketplace)**<br><sub>obra</sub> | Curated Claude Code plugin marketplace. | ★ 1.3k |
 | **[plugins-for-claude-natives](https://github.com/team-attention/plugins-for-claude-natives)**<br><sub>team-attention</sub> | Claude Code plugins for power users. | ★ 832 |
-| **[skills-curated](https://github.com/trailofbits/skills-curated)**<br><sub>trailofbits</sub> | Community-vetted plugin marketplace from Trail of Bits. | ★ 540 |
+| **[skills-curated](https://github.com/trailofbits/skills-curated)**<br><sub>trailofbits</sub> | Community-vetted plugin marketplace from Trail of Bits. | ★ 542 |
 
 ## Communication Channels
 
@@ -71,7 +71,7 @@ Coordinate multiple Claude Code instances working together.
 
 | Plugin | Description | Stars |
 | :--- | :--- | :---: |
-| **[ruflo](https://github.com/ruvnet/ruflo)**<br><sub>ruvnet</sub> | Multi-agent swarm orchestration with adaptive memory and vector RAG. | ★ 82.2k |
+| **[ruflo](https://github.com/ruvnet/ruflo)**<br><sub>ruvnet</sub> | Multi-agent swarm orchestration with adaptive memory and vector RAG. | ★ 82.3k |
 | **[oh-my-claudecode](https://github.com/Yeachan-Heo/oh-my-claudecode)**<br><sub>Yeachan-Heo</sub> | Teams-first multi-agent orchestration for Claude Code. | ★ 41k |
 | **[vibe-kanban](https://github.com/BloopAI/vibe-kanban)**<br><sub>BloopAI</sub> | Kanban-style task management for Claude Code, Codex, and other coding agents. | ★ 28.8k |
 | **[claude-octopus](https://github.com/nyldn/claude-octopus)**<br><sub>nyldn</sub> | Runs several AI models on the same task so disagreements surface before you ship. | ★ 4.5k |
@@ -139,7 +139,7 @@ Opinionated setups and task-specific skill sets.
 | Plugin | Description | Stars |
 | :--- | :--- | :---: |
 | **[gstack](https://github.com/garrytan/gstack)**<br><sub>garrytan</sub> | Garry Tan's Claude Code setup: 23 opinionated tools for product, design, engineering, and QA roles. | ★ 142k |
-| **[career-ops](https://github.com/career-ops-hq/career-ops)**<br><sub>career-ops-hq</sub> | Job search agent that scores listings against your CV and tailors resumes and cover letters. | ★ 84.1k |
+| **[career-ops](https://github.com/career-ops-hq/career-ops)**<br><sub>career-ops-hq</sub> | Job search agent that scores listings against your CV and tailors resumes and cover letters. | ★ 84.3k |
 | **[NotFair](https://github.com/nowork-studio/notfair-plugin)**<br><sub>nowork-studio</sub> | SEO, GEO, and ad skills with Google Ads, Meta Ads, Search Console, and GA4 MCP. Formerly toprank. | ★ 4.3k |
 | **[ralph-wiggum-marketer](https://github.com/muratcankoylan/ralph-wiggum-marketer)**<br><sub>muratcankoylan</sub> | Autonomous AI copywriter. | ★ 782 |
 | **[Docsy](https://github.com/getremcp/docsy-plugin)**<br><sub>getremcp</sub> | Version-specific developer docs with source citations over OAuth MCP. | ★ 1 |
@@ -151,7 +151,7 @@ See what Claude Code is doing, and get told when it needs you.
 | Plugin | Description | Stars |
 | :--- | :--- | :---: |
 | **[claude-hud](https://github.com/jarrodwatts/claude-hud)**<br><sub>jarrodwatts</sub> | Shows context usage, active tools, running agents, and todo progress. | ★ 29.3k |
-| **[agent-notifications](https://github.com/777genius/agent-notifications)**<br><sub>777genius</sub> | Desktop and webhook alerts with sounds and click-to-focus on macOS, Linux, and Windows. | ★ 835 |
+| **[agent-notifications](https://github.com/777genius/agent-notifications)**<br><sub>777genius</sub> | Desktop and webhook alerts with sounds and click-to-focus on macOS, Linux, and Windows. | ★ 836 |
 | **[claude-codex-windows-notify](https://github.com/Tomauskasz/claude-codex-windows-notify)**<br><sub>Tomauskasz</sub> | Native Windows popups for Claude Code, Codex, and OpenCode with session preview and click-to-focus. | ★ 0 |
 
 ## Plugin Development
