@@ -5,7 +5,7 @@
 **A curated directory of Claude Code plugins, skills, and MCP integrations.**
 
 [![Awesome](https://img.shields.io/badge/awesome-list-FC60A8?style=flat-square&logo=awesomelists&logoColor=white)](https://awesome.re)
-[![Plugins](https://img.shields.io/badge/plugins-34-D97757?style=flat-square)](#contents)
+[![Plugins](https://img.shields.io/badge/plugins-35-D97757?style=flat-square)](#contents)
 [![Last commit](https://img.shields.io/github/last-commit/PenguinMiaou/awesome-claude-code-plugins?style=flat-square&label=updated)](https://github.com/PenguinMiaou/awesome-claude-code-plugins/commits/main)
 [![PRs welcome](https://img.shields.io/badge/PRs-welcome-2ea44f?style=flat-square)](CONTRIBUTING.md)
 [![License: CC0-1.0](https://img.shields.io/badge/license-CC0--1.0-lightgrey?style=flat-square)](https://creativecommons.org/publicdomain/zero/1.0/)
@@ -18,7 +18,7 @@ Entries within each category are ordered by GitHub stars, refreshed daily.
 
 | Category | Plugins | Category | Plugins |
 | :--- | :---: | :--- | :---: |
-| [Official](#official) | 1 | [Browser & Web](#browser--web) | 1 |
+| [Official](#official) | 1 | [Browser & Web](#browser--web) | 2 |
 | [Marketplaces & Directories](#marketplaces--directories) | 4 | [DevOps & Infrastructure](#devops--infrastructure) | 4 |
 | [Communication Channels](#communication-channels) | 2 | [Language & Framework Specific](#language--framework-specific) | 3 |
 | [Multi-Agent & Orchestration](#multi-agent--orchestration) | 4 | [Productivity & Workflow](#productivity--workflow) | 5 |
@@ -106,6 +106,7 @@ Review loops, language servers, and structured development workflows.
 ## Browser & Web
 
 Let Claude Code drive a browser.
+| **[agent-qa](https://github.com/vostride/agent-qa)**<br><sub>vostride</sub> | Web/mobile QA; memidex memory, validated self-improvement and evidence. FSL-1.1-ALv2. https://vostride.com | ★ |
 
 | Plugin | Description | Stars |
 | :--- | :--- | :---: |
