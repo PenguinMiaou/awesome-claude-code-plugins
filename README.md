@@ -5,7 +5,7 @@
 **A curated directory of Claude Code plugins, skills, and MCP integrations.**
 
 [![Awesome](https://img.shields.io/badge/awesome-list-FC60A8?style=flat-square&logo=awesomelists&logoColor=white)](https://awesome.re)
-[![Plugins](https://img.shields.io/badge/plugins-34-D97757?style=flat-square)](#contents)
+[![Plugins](https://img.shields.io/badge/plugins-35-D97757?style=flat-square)](#contents)
 [![Last commit](https://img.shields.io/github/last-commit/PenguinMiaou/awesome-claude-code-plugins?style=flat-square&label=updated)](https://github.com/PenguinMiaou/awesome-claude-code-plugins/commits/main)
 [![PRs welcome](https://img.shields.io/badge/PRs-welcome-2ea44f?style=flat-square)](CONTRIBUTING.md)
 [![License: CC0-1.0](https://img.shields.io/badge/license-CC0--1.0-lightgrey?style=flat-square)](https://creativecommons.org/publicdomain/zero/1.0/)
@@ -24,7 +24,7 @@ Entries within each category are ordered by GitHub stars, refreshed daily.
 | [Multi-Agent & Orchestration](#multi-agent--orchestration) | 4 | [Productivity & Workflow](#productivity--workflow) | 5 |
 | [Memory & Context](#memory--context) | 2 | [UI & Notifications](#ui--notifications) | 3 |
 | [AI Model Integration](#ai-model-integration) | 1 | [Plugin Development](#plugin-development) | 1 |
-| [Code Quality & Review](#code-quality--review) | 3 | | |
+| [Code Quality & Review](#code-quality--review) | 3 | [Video & Media](#video--media) | 1 |
 
 ## Installing a plugin
 
@@ -161,6 +161,14 @@ Build and distribute your own plugins.
 | Plugin | Description | Stars |
 | :--- | :--- | :---: |
 | **[claude-code-plugin-template](https://github.com/ivan-magda/claude-code-plugin-template)**<br><sub>ivan-magda</sub> | GitHub template for plugin marketplaces with scaffolding, validation, hooks, skills, agents, and CI/CD. | ★ 71 |
+
+## Video & Media
+
+Film-style and other video plugins for Claude Code.
+
+| Plugin | Description | Stars |
+| :--- | :--- | :---: |
+| **[reelstyles-free](https://github.com/reelstyles/reelstyles-free)**<br><sub>reelstyles</sub> | Film-style kits a coding agent reads, then animates a video in code and HyperFrames renders the MP4.<br>`/plugin marketplace add reelstyles/reelstyles-free`<br>`/plugin install reelstyles-free@reelstyles-free` | ★ |
 
 ---
 
